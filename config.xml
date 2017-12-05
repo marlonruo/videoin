@@ -27,5 +27,5 @@
     <plugin name="com.tokbox.cordova.opentok" spec="https://github.com/opentok/cordova-plugin-opentok/" />
     <plugin name="cordova-opentok-android-permissions" spec="^1.0.1" />
     <!--<plugin name="cordova-plugin-camera" spec="^3.0.0" />-->
-    <plugin name ="cordova-plugin-camera" version = "2.3.0" />
+    <!--<plugin name ="cordova-plugin-camera" version = "2.3.0" />-->
 </widget>
